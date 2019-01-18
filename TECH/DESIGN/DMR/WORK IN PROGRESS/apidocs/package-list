@@ -1,0 +1,8 @@
+sg.edu.nus.seris
+sg.edu.nus.seris.controller
+sg.edu.nus.seris.dto
+sg.edu.nus.seris.entity
+sg.edu.nus.seris.exception
+sg.edu.nus.seris.repository
+sg.edu.nus.seris.security
+sg.edu.nus.seris.service
